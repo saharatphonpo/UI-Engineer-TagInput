@@ -22,7 +22,7 @@
 
 ```tsx
 import React from "react";
-import TagInput from "./TagInput";
+import TagInputComponent from './components/tags-input'
 
 const App: React.FC = () => {
   return (
